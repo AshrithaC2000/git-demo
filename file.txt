@@ -9,6 +9,7 @@ mkdir foldername
 ls
 touch filename
 testing merge for main branch first conflict
+checking git pull
 
 
 
