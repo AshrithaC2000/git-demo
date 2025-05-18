@@ -1,1 +1,2 @@
 Testing git reset options and revert
+adding second line 
