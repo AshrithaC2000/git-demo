@@ -1,2 +1,13 @@
 Testing git reset options and revert
 adding second line 
+git add 
+git commit -m <msg>
+git push
+Vi filename
+cat filename
+mkdir foldername
+ls
+touch filename
+
+
+
